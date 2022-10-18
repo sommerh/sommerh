@@ -1,3 +1,5 @@
+img src="https://github.com/sommerh/sommerh/blob/main/yellow-intro-banner.png" alt="introduction banner" />
+
 <h1 align="center">Hi 👋, I'm Hannah Sommer</h1>
 <p align="left">I'm a full stack software engineer and graduate of Fullstack Academy's Grace Hopper Program. Prior to my shift into this industry, I was a public health social worker and program manager in the healthcare sector.</p>
 
