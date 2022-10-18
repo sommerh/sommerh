@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hannah Sommer</h1>
-<h4 align="left">I'm a full stack software engineer and graduate of Fullstack Academy's Grace Hopper Program. Prior to my shift into this industry, I was a public health social worker and program manager in the healthcare sector.</h4>
+<p align="left">I'm a full stack software engineer and graduate of Fullstack Academy's Grace Hopper Program. Prior to my shift into this industry, I was a public health social worker and program manager in the healthcare sector.</p>
 
 👀 My pronouns: *she/her*
 
